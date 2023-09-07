@@ -17,6 +17,7 @@ export default function Home() {
               grasp of who I am, here are the following details:
               <></>
           </p>
+          <hr></hr>
               <br></br>
               <p>
               <b>❖ Favorite music:</b> "Scott Street" by Phoebe Bridgers
