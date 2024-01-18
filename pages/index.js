@@ -14,14 +14,12 @@ export default function Home() {
         </p>
 	<br>
 	<ul>
-	<p> Expectations:</p>
         <li> I expect to learn more about web and client services as these terms are not new but it requires the fundamental topics for me to delve deeper as I don't have an idea yet on how it works.</li>
         <li> The course may seem challenging but I do believe that our professor can make it easier for us to learn about it.</li>
         <li> Looking forward into passing the exams and have a passing grades with enough knowledge.</li>        
     </ul>
 	<br>
     <ol>
-	<p> Things that require zero talent:</p>
         <li> Punctuality </li>
         <li> Accountability </li>
         <li> Responsible </li>
