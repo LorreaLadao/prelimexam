@@ -7,33 +7,23 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>Introducing Lorrea</title>
+        <title>No Talent Required</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>
-          I am <b>Lorrea</b>, a unique name with <b>"Ladao"</b> as my surname. A student from the University of the Assumption, taking up Bachelor
-          of Science in Information Technology. I've spent 20 years in this world, residing in the town of Guagua.
-        </p>
-        <br />
-        <ul>
-          <p>Expectations:</p>
-          <li>I expect to learn more about web and client services as these terms are not new but it requires the fundamental topics for me to delve deeper as I don't have an idea yet on how it works.</li>
-          <li>The course may seem challenging but I do believe that our professor can make it easier for us to learn about it.</li>
-          <li>Looking forward to passing the exams and have passing grades with enough knowledge.</li>
-        </ul>
+        
         <br />
         <ol>
-          <p>Things that require zero talent:</p>
-          <li>Punctuality</li>
-          <li>Accountability</li>
-          <li>Responsible</li>
-          <li>Loving Yourself</li>
-          <li>Attentively Listening</li>
-          <li>Doing Better</li>
-          <li>Appreciative</li>
-          <li>Healthy Living</li>
-          <li>Maintaining Positive Affirmations</li>
-          <li>Showing Concern</li>
+          <p>10 Things That Require Zero Talent</p>
+          <li>Being On Time</li>
+          <li>Making An Effort</li>
+          <li>Being High Energy</li>
+          <li>Having A Positive Attitude</li>
+          <li>Being Passionate</li>
+          <li>Using Good Body Language</li>
+          <li>Being Coachable</li>
+          <li>Doing A Little Extra</li>
+          <li>Being Prepared</li>
+          <li>Having A Strong Work Ethic</li>
         </ol>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
